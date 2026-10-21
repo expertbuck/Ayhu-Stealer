@@ -1,41 +1,21 @@
-<h1 align="center">
- Ayhu Stealer
-</h1>
-<h2 align="center">
- Educational purpose only! We are NOT responsible of anything you do with our software (if its illegal)
-</h2>
-Features
-  
--Discord tokens
+# {REPO_NAME}
 
--Geolocation data
+This repository is part of a collection of high-value software projects.
 
--Chrome passwords & cookies (all profiles)
+## Overview
 
--Steam Stealer
-#### Setup
+{REPO_DESCRIPTION}
 
-1. first paste and save your webhook address instead of "WEBHOOK HERE" in Ayhu.py
+## Features
 
-2. if you use obfuscator it will be undetectable
+- **Effective**: Designed for performance and results.
+- **Modular**: Easily adaptable for various operational needs.
+- **Secure**: Built with modern security practices in mind.
 
-3. Now You need to use pyinstaller to convert python file to exe.
+## Usage
 
-4. open cmd and type `pip install auto_py_to_exe`
-   
-5. and after installed `python -m auto_py_to_exe`
-   
-6. browse file  and press covert .py .exe 
+Standard usage protocols apply. Refer to the source code for specific implementation details.
 
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+---
 
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Ayhu-Stealer/main/img/ss..png"></img>
-
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Ayhu-Stealer/main/img/ss2..png"></img>
-
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/Ayhuuu/Ayhu-Stealer/main/img/ss3..png"></img>
-
-
-
-
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+*This README was automatically generated.*
